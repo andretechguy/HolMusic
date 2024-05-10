@@ -39,6 +39,8 @@ i{
 }
 
 html, body{
+    padding: 70px 0;
+    text-align: center;
     margin: 0px
 }
 
